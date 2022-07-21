@@ -1,0 +1,51 @@
+{
+    "signup":{
+        "name": "Muriel Stanger Zanellato",
+        "cpf": "00000014141",
+        "email": "muriel@muriel.com",
+        "whatsapp": "48999999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "datails": "Apto 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg.jpg"
+    },
+    "cpf_inv":{
+        "name": "João Paulo Veiga",
+        "cpf": "AAA921AAS8*",
+        "email": "testede@muriel.com",
+        "whatsapp": "0005544ssaa",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "datails": "Apto 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg.jpg"
+    },
+    "email_inv":{
+        "name": "Muriel Stanger Zanellato",
+        "cpf": "00000014141",
+        "email": "muriel.com.br",
+        "whatsapp": "48999999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "datails": "Apto 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg.jpg"
+    }
+    
+}
